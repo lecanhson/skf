@@ -43,6 +43,7 @@
   --thm-base: #ef530f;
   --thm-base-rgb: 239, 83, 15;
   --thm-primary: #02489d;
+  --thm-son: #02489d;
   --thm-primary-rgb: 2, 72, 157;
   --thm-secondary: #3fbfef;
   --thm-secondary-rgb: 63, 191, 239;
@@ -1912,7 +1913,7 @@ h6 {
   position: absolute;
   top: 0;
   left: 0;
-  background-color: var(--thm-primary);
+  background-color: var(--thm-black);
   min-width: 256px;
   min-height: 129px;
   display: flex;
